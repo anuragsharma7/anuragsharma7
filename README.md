@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anuragsharma7
-- 👀 I’m interested in Swift, SwiftUI, Dart, Python and JavaScript. (Sometimes Objective-C, Kotlin and PHP)
+- 👀 I’m interested in Swift, Objective-C, SwiftUI, Dart, Python and JavaScript. (Sometimes Kotlin and PHP)
 - 🌱 I’m currently learning SwiftUI and Dart
 - 💞️ I’m looking to collaborate on Swift
 - 📫 How to reach me anurag20c@gmail.com
